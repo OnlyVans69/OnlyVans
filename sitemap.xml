@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://onlyvans.parts/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://onlyvans.parts/#inventory</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlyvans.parts/#reviews</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlyvans.parts/#blog</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://onlyvans.parts/#contact</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlyvans.parts/#faq</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>
